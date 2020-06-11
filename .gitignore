@@ -43,7 +43,9 @@
 *.xz
 Module.symvers
 modules.builtin
-
+*.sh
+prebuilts/
+AnyKernel3/
 #
 # Top-level generic files
 #
